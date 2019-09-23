@@ -1,1 +1,1 @@
-export { default } from "./components/multi_select";
+export { default as ReactMultiSelect } from "./components/multi_select";
